@@ -5,6 +5,7 @@
 
 ##### this image is for anyone who wants to use their Microsoft SQL Server using a FreeTDS driver with the latest version of python installed.
 
+https://github.com/adgsenpai/dockersqlserver/pkgs/container/dockersqlserver
 
 # Usage in your IMAGE
 
