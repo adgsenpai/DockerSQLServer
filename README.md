@@ -18,7 +18,7 @@ COPY . .
 RUN MyApp.py
 ```
 
-#### PythonFile
+#### MyApp.py
 
 Using Native PyODBC in Image
 
